@@ -1,16 +1,20 @@
 # Hi, I'm BalaSudharsan 👋
 
-### Security-First AI Automation Builder
+### Secure AI Automation Builder
 
 I build AI workflows, agents, and automations — with security designed in from day one, not added afterward.
 
 ---
 
-### 🔭 What I'm working on
+### 🚀 Shipped Projects
 
-- **GrowthPilot AI** — Live, secured, production AI tool for small business growth strategy. Built with a 10-layer architecture and full security audit. [→ View Project](https://github.com/balasudharsan/growthpilot-ai)
-- Studying **OWASP LLM Top 10 (2025)** and applying findings to my builds
-- Practicing web app security with Burp Suite, OWASP ZAP, sqlmap
+- **[GrowthPilot AI](https://github.com/balasudharsan/growthpilot-ai)** — Live production AI tool for small business growth strategy. Custom Python/FastAPI, PostgreSQL, 10-layer architecture, full security audit.
+- **[Intel Brief Bot](https://github.com/balasudharsan/intel-brief-bot)** — Personal Telegram daily intelligence brief bot. n8n workflow orchestration, 27-pattern prompt injection sanitizer, verified against 50-test battery.
+
+### 🔭 Currently working on
+
+- OWASP LLM Top 10 (2025) — applied study across my builds
+- Web app security practice with Burp Suite, OWASP ZAP, sqlmap
 - Python code security review using Bandit and pip-audit
 
 ---
@@ -37,7 +41,7 @@ I build AI workflows, agents, and automations — with security designed in from
 
 - LinkedIn: [in/balasudharsan](https://linkedin.com/in/balasudharsan)
 - Location: Tiruchirappalli, Tamil Nadu, India
-- Available for: **Remote roles** and **freelance projects** in AI automation, LLM engineering, and AI security
+- Available for: **Remote roles** and **freelance projects** in AI automation, LLM engineering, and AI security , AI Agents build 
 
 ---
 
@@ -47,4 +51,4 @@ I come from a non-technical background (B.A. English). After college, I chose cy
 
 I'm early in my career. I build in public. I share what I learn. I don't pretend to be more than I am.
 
-If you're hiring or building in this space — message me.
+If you're hiring or building in this space — DM me.
