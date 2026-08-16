@@ -47,7 +47,7 @@ I build AI workflows, agents, and automations — with security designed in from
 
 ### 📌 A note on my journey
 
-I come from a non-technical background (B.A. English). After college, I chose cybersecurity and learned from the ground up — computer fundamentals, Linux, Windows, networking, programming, then security. I then moved into AI to combine the two.
+After finishing my B.A. in English, I chose cybersecurity. I started from the ground up — completed structured training in networking, Linux, Python, AWS, and DevOps plus ethical hacking, penetration testing, and cyber forensics. From there I moved into AI to combine the two. Most people building AI systems are building fast. Very few are asking: what happens if this gets attacked? What happens if it leaks data? What happens when it fails?
 
 I'm early in my career. I build in public. I share what I learn. I don't pretend to be more than I am.
 
